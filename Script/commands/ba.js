@@ -45,7 +45,9 @@ const emojiAudioMap = {
  "😩": "https://files.catbox.moe/b4m5aj.mp3",
  "🫣": "https://files.catbox.moe/ttb6hi.mp3",
  "🐸": "https://files.catbox.moe/utl83s.mp3",
- "🙂": "https://drive.google.com/uc?export=download&id=1dW9IKuDuzIyJGq7oHGFKHHLm4a7kI4vr"
+ "🙂": "https://drive.google.com/uc?export=download&id=1dW9IKuDuzIyJGq7oHGFKHHLm4a7kI4vr",
+ "Nasheed": "https://drive.google.com/uc?export=download&id=1hHLY1Y5Cd_ZlSqvO2FQpOt0t8wbHamJi",
+ "Sad sond": "https://drive.google.com/uc?export=download&id=1_gaGY2bJRG3jW0tQtP3dGjSIgkMe7hOO"
 };
 
 module.exports.handleEvent = async ({ api, event }) => {
